@@ -1,7 +1,0 @@
-ultralytics
-split-folders
-opencv-python-headless
-albumentations
-torch
-numpy
-tqdm
