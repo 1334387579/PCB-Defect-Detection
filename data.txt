@@ -1,3 +1,0 @@
-数据下载地址：https://www.kaggle.com/datasets/panwei88/pcb-dataset
-
-训练好的模型下载地址：https://www.kaggle.com/models/panwei88/pcb-defect-detection_yolov8
